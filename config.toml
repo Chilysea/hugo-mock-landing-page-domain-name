@@ -1,6 +1,6 @@
-baseURL = "http://localhost:1313/"
+baseURL = 'http://localhost:1313/'
 title = "AI Study Assistant"
-author = "Filipe Carneiro"
+author = "Sean McGinn"
 copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
 
 timeZone = 'Europe/London'
@@ -47,3 +47,12 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  logo = "images/ai_logo.png"
+
