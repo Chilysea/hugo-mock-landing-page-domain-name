@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /404.html
-Sitemap: https://Chilysea.github.io/hugo-mock-landing-page/sitemap.xml

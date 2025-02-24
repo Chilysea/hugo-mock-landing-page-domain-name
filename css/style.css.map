@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/sean/hugo-mock-landing-page",
+	"sourceRoot": "/home/runner/work/hugo-mock-landing-page-autodeployed/hugo-mock-landing-page-autodeployed",
 	"sources": [
 		"themes/hugo-bootstrap-theme/assets/sass/main.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/variable-overrides.scss",

@@ -1,19 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on AI Study Assistant</title>
-    <link>https://Chilysea.github.io/hugo-mock-landing-page/post/</link>
-    <description>Recent content in Posts on AI Study Assistant</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Sean McGinn</copyright>
-    <atom:link href="https://Chilysea.github.io/hugo-mock-landing-page/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introducing Our AI-Powered Study Assistant</title>
-      <link>https://Chilysea.github.io/hugo-mock-landing-page/post/remaining-post/</link>
-      <pubDate>Mon, 10 Feb 2025 12:00:00 +0000</pubDate>
-      <guid>https://Chilysea.github.io/hugo-mock-landing-page/post/remaining-post/</guid>
-      <description>&lt;p&gt;Welcome to our revolutionary &lt;strong&gt;AI Study Assistant&lt;/strong&gt;—a tool designed to help students optimize their learning experience with cutting-edge AI technologies. Here&amp;rsquo;s what it offers:&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Personalized Learning Paths&lt;/strong&gt;&lt;br&gt;&#xA;Receive recommendations based on your progress and performance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;AI-Generated Flashcards&lt;/strong&gt;&lt;br&gt;&#xA;Transform your notes into interactive flashcards with ease.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gamification &amp;amp; Rewards&lt;/strong&gt;&lt;br&gt;&#xA;Stay motivated by earning badges and completing challenges.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;why-use-our-tool&#34;&gt;Why Use Our Tool?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Save time and energy with automated study aids.&lt;/li&gt;&#xA;&lt;li&gt;Track your learning progress in real-time.&lt;/li&gt;&#xA;&lt;li&gt;Collaborate with peers in virtual study groups.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Start your journey with us today and redefine the way you learn!&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on AI Study Assistant</title><link>https://Chilysea.github.io/hugo-mock-landing-page-autodeployed/post/</link><description>Recent content in Posts on AI Study Assistant</description><generator>Hugo</generator><language>en</language><copyright>Open-source &lt;a class="text-muted text-decoration-none" href="https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE">MIT&lt;/a> Licensed.</copyright><atom:link href="https://Chilysea.github.io/hugo-mock-landing-page-autodeployed/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Our AI-Powered Study Assistant</title><link>https://Chilysea.github.io/hugo-mock-landing-page-autodeployed/post/remaining-post/</link><pubDate>Mon, 10 Feb 2025 12:00:00 +0000</pubDate><guid>https://Chilysea.github.io/hugo-mock-landing-page-autodeployed/post/remaining-post/</guid><description>&lt;p>Welcome to our revolutionary &lt;strong>AI Study Assistant&lt;/strong>—a tool designed to help students optimize their learning experience with cutting-edge AI technologies. Here&amp;rsquo;s what it offers:&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>Personalized Learning Paths&lt;/strong>&lt;br>
+Receive recommendations based on your progress and performance.&lt;/li>
+&lt;li>&lt;strong>AI-Generated Flashcards&lt;/strong>&lt;br>
+Transform your notes into interactive flashcards with ease.&lt;/li>
+&lt;li>&lt;strong>Gamification &amp;amp; Rewards&lt;/strong>&lt;br>
+Stay motivated by earning badges and completing challenges.&lt;/li>
+&lt;/ol>
+&lt;h2 id="why-use-our-tool">Why Use Our Tool?&lt;/h2>
+&lt;ul>
+&lt;li>Save time and energy with automated study aids.&lt;/li>
+&lt;li>Track your learning progress in real-time.&lt;/li>
+&lt;li>Collaborate with peers in virtual study groups.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>Start your journey with us today and redefine the way you learn!&lt;/p></description></item></channel></rss>
