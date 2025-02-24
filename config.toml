@@ -1,4 +1,4 @@
-baseURL = 'https://Chilysea.github.io/hugo-mock-landing-page-autodeployed/'
+baseURL = 'https://Chilysea.github.io/hugo-mock-landing-page-domain-name/'
 title = "AI Study Assistant"
 author = "Sean McGinn"
 copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
