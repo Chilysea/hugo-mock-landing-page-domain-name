@@ -1,1 +1,3 @@
 # hugo-mock-landing-page
+
+This GitHub Actions workflow automatically updates and deploys the Hugo site to GitHub Pages whenever changes are pushed to the main branch. It starts by pulling in the latest version of the repository, including any themes or submodules. Then, it sets up Hugo with version 0.144.1 and builds the site, cleaning up unused files and making everything more efficient by minifying the output. Once the site is built, the workflow pushes the updated version to the gh-pages branch, which is what GitHub Pages uses to display the site. This means that anytime you update a file, like contact.md, the site is rebuilt and redeployed automatically—no need to manually upload anything. It's a simple way to keep the website up to date without extra work.
